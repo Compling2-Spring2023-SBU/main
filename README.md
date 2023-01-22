@@ -8,7 +8,7 @@
 
 ### Course
 - MW 08:30-09:50
-- Comp Ling Lab in SBS
+- from next class: Comp Ling Lab in SBS
 - Office Hours are Tuesdays and Thursdays from 11:30-13:00pm and by appointment.
 - [Syllabus](syllabus-compling2-LIN637-23S-Heinz.pdf)
 - [Useful Links](UsefulLinks.md) for github, markdown, LaTeX, and Haskell
@@ -18,8 +18,7 @@
 ### Mon 23 Jan 2023
 
 - Today we introduced the course and went over the syllabus.
-- we went over the first two pages of [this handout on formal
-  languages and grammars](readings/rewrite-grammars.pdf)
+- we began to review [the first two chapters on formal languages and grammars](readings/main.pdf)
 - For Thursday:
   - Please make sure you have a github account set up and send me your
 	username so I can add you to the "Compling2-Spring2023-SBU" github
