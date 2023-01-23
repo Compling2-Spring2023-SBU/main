@@ -35,7 +35,10 @@
 	to install Ubuntu on a virtual machine are
 	here.](https://ubuntu.com/tutorials/how-to-run-ubuntu-desktop-on-a-virtual-machine-using-virtualbox#1-overview)
  - How do you know if you were able to install Haskell successfully? At the command line, do the following.
-    ```
-	
 	```
- 
+	$ ghci
+	GHCi, version 9.2.2: https://www.haskell.org/ghc/  :? for help
+	ghci> take 5 [1 .. ]
+	[1,2,3,4,5]
+	ghci>
+	```
