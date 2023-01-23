@@ -10,7 +10,7 @@
 - MW 08:30-09:50
 - from next class: Comp Ling Lab in SBS
 - Office Hours are Tuesdays and Thursdays from 11:30-13:00pm and by appointment.
-- [Syllabus](syllabus-compling2-LIN637-23S-Heinz.pdf)
+- [Syllabus](compling2-LIN637-23S-Heinz.pdf)
 - [Useful Links](UsefulLinks.md) for github, markdown, LaTeX, and Haskell
 
 ## Class Log
@@ -24,6 +24,7 @@
 	username so I can add you to the "Compling2-Spring2023-SBU" github
 	organization.
   - Complete exercise 1 on page 2 of the handout.
+  - Why Haskell? Here is [one reason](https://youtu.be/M5HuOZ4sgJE).
   - Install Haskell using GHCup. [Instructions are
 	here.](https://www.haskell.org/ghcup/) If you need assistance,
 	please let us know asap. Windows users may
@@ -33,4 +34,8 @@
 	distribution (such as Ubuntu) running on it. [Instructions for how
 	to install Ubuntu on a virtual machine are
 	here.](https://ubuntu.com/tutorials/how-to-run-ubuntu-desktop-on-a-virtual-machine-using-virtualbox#1-overview)
-
+ - How do you know if you were able to install Haskell successfully? At the command line, do the following.
+    ```
+	
+	```
+ 
