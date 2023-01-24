@@ -23,7 +23,7 @@
   - Please make sure you have a github account set up and send me your
 	username so I can add you to the "Compling2-Spring2023-SBU" github
 	organization.
-  - Complete exercise 1 on page 2 of the handout.
+  - Complete exercise 1 on page 11 of the handout.
   - Why Haskell? Here is [one reason](https://youtu.be/M5HuOZ4sgJE).
   - Install Haskell using GHCup. [Instructions are
 	here.](https://www.haskell.org/ghcup/) If you need assistance,
