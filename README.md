@@ -20,7 +20,7 @@
 - Today we reviewed Piecewise Local expressions.
 - We also reviewed the basics of working in Haskell (ghci and text editors).
 - HW: write as many of the formal languages in Example 1 as you can with Piecewise-Local expressions.
-- HW: Chapter 2 exercises of Hutton 2016
+- HW: [Chapter 2 exercises of Hutton 2016](https://github.com/Compling2-Spring2023-SBU/hw02)
 
 ### Wed 25 Jan 2023
 
