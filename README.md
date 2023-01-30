@@ -15,6 +15,20 @@
 
 ## Class Log
 
+### Mon 30 Jan 2023
+- Today we reviewed some of the star-free expressions you proposed for the formal languages in example 1.
+- Today we reviewed Piecewise Local expressions.
+- We also reviewed the basics of working in Haskell (ghci and text editors).
+- HW: write as many of the formal languages in Example 1 as you can with Piecewise-Local expressions.
+- HW: Chapter 2 exercises of Hutton 2016
+
+### Wed 25 Jan 2023
+
+- Today we reviewed some the regular expressions you proposed for the formal languages in example 1.
+- We reviewed, Cat-Union Expressions, Generalized Regular Expressions, and Star-Free expressions.
+- HW: write as many of the formal languages in Example 1 as you can with Star-Free expressions.
+- HW: [Chapter 1 exercises of Hutton 2016 submitted via github](https://github.com/Compling2-Spring2023-SBU/hw01)
+
 ### Mon 23 Jan 2023
 
 - Today we introduced the course and went over the syllabus.
