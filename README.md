@@ -15,6 +15,12 @@
 
 ## Class Log
 
+### Wed 01 Feb 2023
+- Today we finished our discussion of Piecewise Local expressions. We also discussed the tier operation which denotes the maximal inverse tier projection.
+- We also discussed types and type inference in Haskell, as well as reviewed concepts in chapter 3 of Hutton 2016.
+- HW: [Chapter 3 exercises of Hutton
+  2016](https://github.com/Compling2-Spring2023-SBU/hw03). This is due Monday before class!
+
 ### Mon 30 Jan 2023
 - Today we reviewed some of the star-free expressions you proposed for the formal languages in example 1.
 - Today we reviewed Piecewise Local expressions.
