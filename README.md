@@ -15,6 +15,15 @@
 
 ## Class Log
 
+### Mon 06 Feb 2023
+
+- Today we went over Chap 3 Hutton HW, finished discussing concepts in
+  Chapter 3 including polymorphic types, overloaded operators, and
+  class constraints on types.
+- We introduced type synonyms and new data types in Chapter 8 (8.1 and 8.2).
+- We began discussing [Rewrite Grammars](readings/main.pdf) on page 14 and did exercises 6,7,8.
+- For Wednesday, review and/or get ahead on Chapter 4 of Hutton.
+
 ### Wed 01 Feb 2023
 - Today we finished our discussion of Piecewise Local expressions. We also discussed the tier operation which denotes the maximal inverse tier projection.
 - We also discussed types and type inference in Haskell, as well as reviewed concepts in chapter 3 of Hutton 2016.
