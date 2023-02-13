@@ -15,6 +15,20 @@
 
 ## Class Log
 
+### Mon 13 Feb 2023
+- Today we reviewed HW04.
+- We also discussed list comprehensions in Haskell (Chapter 5 in Hutton, up to 5.5).
+- HW: review Hutton chapter 5 (up to 5.5) and do this [Hawaiian
+  exercise with list
+  comprehensions](https://github.com/Compling2-Spring2023-SBU/hw05). This HW
+  is due Friday before 9am!
+
+### Wed 08 Feb 2023
+- Today we finished our discussion of rewrite grammars and the Chomsky Hierarchy.
+- We also discussed how to define functions in Haskell.
+- HW: [Chapter 4 exercises of Hutton
+  2016](https://github.com/Compling2-Spring2023-SBU/hw04). This is due Monday before class!
+
 ### Mon 06 Feb 2023
 
 - Today we went over Chap 3 Hutton HW, finished discussing concepts in
