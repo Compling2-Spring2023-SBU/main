@@ -15,6 +15,14 @@
 
 ## Class Log
 
+### Mon 20 Feb 2023
+- Today we reviewed HW05.
+- We finished our discussion of using [logic to define formal
+  languages](readings/main.pdf)
+
+### Mon 15 Feb 2023
+- Class cancelled
+
 ### Mon 13 Feb 2023
 - Today we reviewed HW04.
 - We also discussed list comprehensions in Haskell (Chapter 5 in Hutton, up to 5.5).
@@ -22,6 +30,7 @@
   exercise with list
   comprehensions](https://github.com/Compling2-Spring2023-SBU/hw05). This HW
   is due Friday before 9am!
+- We began discussing how to use [logic to define formal languages](readings/main.pdf)
 
 ### Wed 08 Feb 2023
 - Today we finished our discussion of rewrite grammars and the Chomsky Hierarchy.
