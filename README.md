@@ -15,9 +15,20 @@
 
 ## Class Log
 
+### Wed 22 Feb 2023
+- We finally finished our discussion of logic to define formal
+  languages.
+- We defined [strings as recursive data
+  structures](readings/main.pdf), and saw how this kind of definition
+  allows one to define functions over such structures easily.
+- We reviewed parts of Chapter 6 of Hutton.
+- HW06: [Recursive
+  definitions](https://github.com/Compling2-Spring2023-SBU/hw06). This
+  is due Friday by 5pm!
+
 ### Mon 20 Feb 2023
 - Today we reviewed HW05.
-- We finished our discussion of using [logic to define formal
+- We almost finished our discussion of using [logic to define formal
   languages](readings/main.pdf)
 
 ### Mon 15 Feb 2023
