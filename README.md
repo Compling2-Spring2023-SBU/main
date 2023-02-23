@@ -19,6 +19,7 @@
 - Today we reviewed HW05.
 - We finished our discussion of using [logic to define formal
   languages](readings/main.pdf)
+- read Hutton Chapter 6 for Wednesday.
 
 ### Mon 15 Feb 2023
 - Class cancelled
