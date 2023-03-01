@@ -15,6 +15,16 @@
 
 ## Class Log
 
+### Wed 27 Feb 2023
+
+- We reviewed HW06.
+- We discussed higher functions in Chapter 7 of Hutton.
+- We discussed how to define concatenation using a "reverse append"
+  operation.
+- HW07: [higher functions and
+  lists](https://github.com/Compling2-Spring2023-SBU/hw07). This is
+  due before class on Wednesday!
+
 ### Wed 22 Feb 2023
 - We finally finished our discussion of logic to define formal
   languages.
