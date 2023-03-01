@@ -15,7 +15,14 @@
 
 ## Class Log
 
-### Wed 27 Feb 2023
+### Wed 01 Mar 2023
+- We discussed HW07.
+- We discussed functional composition in Chapter 7 of Hutton.
+- We discussed [a definition of trees](readings/main.pdf), and studied
+  a definition of size of trees.
+- For Monday read [Stabler 2019](readings/Stabler-2019-Three-Mathematical-Foundations-for-Syntax.pdf)
+
+### Mon 27 Feb 2023
 
 - We reviewed HW06.
 - We discussed higher functions in Chapter 7 of Hutton.
