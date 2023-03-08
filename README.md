@@ -17,8 +17,7 @@
 
 ### Wed 08 Mar 2023
 - We nearly concluded our discussion of [trees](readings/main.pdf) and functions over trees.
-- HW08: [tree exerciseshigher functions and
-  lists](https://github.com/Compling2-Spring2023-SBU/hw08). This is
+- HW08: [tree exercises](https://github.com/Compling2-Spring2023-SBU/hw08). This is
   due before next class Monday March 20.
 - Have a great spring break!
 
