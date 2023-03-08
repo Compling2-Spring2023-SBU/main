@@ -15,6 +15,16 @@
 
 ## Class Log
 
+### Wed 08 Mar 2023
+- We nearly concluded our discussion of [trees](readings/main.pdf) and functions over trees.
+- HW08: [tree exerciseshigher functions and
+  lists](https://github.com/Compling2-Spring2023-SBU/hw08). This is
+  due before next class Monday March 20.
+- Have a great spring break!
+
+### Mon 06 Mar 2023
+- We nearly concluded our discussion of [trees](readings/main.pdf) and functions over trees.
+
 ### Wed 01 Mar 2023
 - We discussed HW07.
 - We discussed functional composition in Chapter 7 of Hutton.
