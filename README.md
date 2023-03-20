@@ -15,6 +15,15 @@
 
 ## Class Log
 
+### Mon 20 Mar 2023
+- Today we introduced deterministic finite-state string acceptors in
+  [chapter 4](readings/main.pdf).
+- HW09: [dfa
+  exercises](https://github.com/Compling2-Spring2023-SBU/hw09). This
+  is due before next class Wed March 22.
+
+### SPRING BREAK (13 - 15 Mar 2023)
+
 ### Wed 08 Mar 2023
 - We nearly concluded our discussion of [trees](readings/main.pdf) and functions over trees.
 - HW08: [tree exercises](https://github.com/Compling2-Spring2023-SBU/hw08). This is
