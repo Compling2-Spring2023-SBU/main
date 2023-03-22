@@ -15,6 +15,13 @@
 
 ## Class Log
 
+### Wed 22 Mar 2023
+- Today we reviewed, among other things, the product construction for union and intersection in
+  [chapter 4](readings/main.pdf).
+- HW10: [dfa
+  product construction](https://github.com/Compling2-Spring2023-SBU/hw10). This
+  is due before next class Mon March 27.
+  
 ### Mon 20 Mar 2023
 - Today we introduced deterministic finite-state string acceptors in
   [chapter 4](readings/main.pdf).
