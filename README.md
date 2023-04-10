@@ -15,6 +15,29 @@
 
 ## Class Log
 
+### Mon 10 Apr 2023
+
+- We studied deterministic string transducers [chapter 6](readings/main.pdf).
+- [Pynini](https://www.openfst.org/twiki/bin/view/GRM/Pynini) and
+  [pyfoma](https://github.com/mhulden/pyfoma) are genreal python
+  libraries for manipulating non-deterministic finite-state string
+  transducers. Pynini builds on [openfst](https://www.openfst.org/).
+
+### Wed 05 Apr 2023
+
+- We studied top-down (root-to-frontier) tree acceptors [chapter
+  5](readings/main.pdf).
+
+### Mon 03 Apr 2023
+
+- We studied bottom-up (frontier-to-root) tree acceptors [chapter
+  5](readings/main.pdf).
+
+### Wed 29 Mar 2023
+- We reviewed the powerset construction for determinizing nfa. 
+- We discussed how to minimize a dfa by reducing indistinguihsable states.
+- [chapter 4](readings/main.pdf)
+
 ### Mon 27 Mar 2023
 - Today we reviewed in [chapter 4](readings/main.pdf) how nfa
   recognize strings by processing sets of states along with the
