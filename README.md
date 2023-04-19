@@ -15,6 +15,26 @@
 
 ## Class Log
 
+### Wed 19 Apr 2023
+
+- We studied top-down, deterministic tree transducers [chapter
+  7](readings/main.pdf).
+- We also discussed generalized deterministic sequential functions,
+  where the outputs of the transducer are elements of a monoid
+  [chapter 6.3](readings/main.pdf).
+
+### Mon 17 Apr 2023
+
+- We studied bottom-up, deterministic tree transducers [chapter
+  7](readings/main.pdf).
+
+### Wed 12 Apr 2023
+
+- We continued studying deterministic string transducers [chapter
+  6](readings/main.pdf), in particular closure properties like
+  composition.
+- We also discussed left and right sequential transducers.
+
 ### Mon 10 Apr 2023
 
 - We studied deterministic string transducers [chapter 6](readings/main.pdf).
@@ -34,7 +54,7 @@
   5](readings/main.pdf).
 
 ### Wed 29 Mar 2023
-- We reviewed the powerset construction for determinizing nfa. 
+- We reviewed the powerset construction for determinizing nfa.
 - We discussed how to minimize a dfa by reducing indistinguihsable states.
 - [chapter 4](readings/main.pdf)
 
