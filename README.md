@@ -15,6 +15,12 @@
 
 ## Class Log
 
+### Mon 24 Apr 2023
+
+- HW13: [generalized deterministic finite-state string
+  transducers](https://github.com/Compling2-Spring2023-SBU/hw13). This
+  is due Friday April 28.
+
 ### Wed 19 Apr 2023
 
 - We studied top-down, deterministic tree transducers [chapter
@@ -42,6 +48,8 @@
   [pyfoma](https://github.com/mhulden/pyfoma) are genreal python
   libraries for manipulating non-deterministic finite-state string
   transducers. Pynini builds on [openfst](https://www.openfst.org/).
+- HW12: [Finite-state tree acceptors](https://github.com/Compling2-Spring2023-SBU/hw12). This
+  is due Friday April 14.
 
 ### Wed 05 Apr 2023
 
@@ -52,6 +60,10 @@
 
 - We studied bottom-up (frontier-to-root) tree acceptors [chapter
   5](readings/main.pdf).
+- HW11: [Non-deterministic finite-state string
+  acceptors](https://github.com/Compling2-Spring2023-SBU/hw12). This
+  is due Friday April 7.
+
 
 ### Wed 29 Mar 2023
 - We reviewed the powerset construction for determinizing nfa.
