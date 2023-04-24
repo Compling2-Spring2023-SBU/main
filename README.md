@@ -17,6 +17,8 @@
 
 ### Mon 24 Apr 2023
 
+- Read [Rogers and Pullum 2011](readings/Rogers-Pullum-2011.pdf) on SL languages
+- We began discussing Subregular classes of formal languages (sections 3.1 and 3.2 of [this paper](https://arxiv.org/abs/2304.07687))
 - HW13: [generalized deterministic finite-state string
   transducers](https://github.com/Compling2-Spring2023-SBU/hw13). This
   is due Friday April 28.
