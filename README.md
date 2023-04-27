@@ -15,6 +15,14 @@
 
 ## Class Log
 
+### Wed 26 Apr 2023
+- Read [Rogers and Pullum 2011](readings/Rogers-Pullum-2011.pdf) on SL languages
+- We concluded our overview of Subregular classes of formal languages (sections 3.1 and 3.2 of [this paper](https://arxiv.org/abs/2304.07687))
+- We studied non-deterministic transducers and their composition ([chapter
+  6.6](readings/main.pdf)),
+  which we saw also lets us compute the potentially infinite set of
+  outputs a word is related to.
+
 ### Mon 24 Apr 2023
 
 - Read [Rogers and Pullum 2011](readings/Rogers-Pullum-2011.pdf) on SL languages
