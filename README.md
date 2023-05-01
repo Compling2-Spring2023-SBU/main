@@ -15,8 +15,20 @@
 
 ## Class Log
 
+### Mon 03 May 2023
+- We discussed strictly local string and tree transducers.
+- Additional readings:
+  - [Graf 2020](readings/graf-2020-curbing-feature-coding.pdf)
+
+
+### Mon 01 May 2023
+- We discussed strictly local string and tree languages ([chapter 8](readings/main.pdf))
+- Additional readings:
+  - [Rogers and Pullum 2011](readings/Rogers-Pullum-2011.pdf) on SL languages
+  - [Rogers 1996, Strict LT2 : Regular :: Local : Recognizable](https://link.springer.com/chapter/10.1007/BFb0052167)
+  - [Jing and Heinz 2020](readings/Ji-Heinz-2020-ISLTT.pdf)
+
 ### Wed 26 Apr 2023
-- Read [Rogers and Pullum 2011](readings/Rogers-Pullum-2011.pdf) on SL languages
 - We concluded our overview of Subregular classes of formal languages (sections 3.1 and 3.2 of [this paper](https://arxiv.org/abs/2304.07687))
 - We studied non-deterministic transducers and their composition ([chapter
   6.6](readings/main.pdf)),
