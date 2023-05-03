@@ -18,8 +18,12 @@
 ### Mon 03 May 2023
 - We discussed strictly local string and tree transducers.
 - Additional readings:
-  - [Graf 2020](readings/graf-2020-curbing-feature-coding.pdf)
-
+  - [Chandlee et al. 2014 on ISL functions](https://transacl.org/index.php/tacl/article/view/429)
+  - [Chandlee et al. 2015 on OSL functions](https://aclanthology.org/W15-2310/)
+  - [Chandlee and Heinz 2018 on ISL and phonology](https://muse.jhu.edu/article/683698)
+  - [Chandlee et al. 2018 on ISL and opacity in phonology](https://www.cambridge.org/core/journals/phonology/article/input-strictly-local-opaque-maps/489E61B2599E2562CB4E48B9F02B4138)
+  - [Graf 2020 on ISL tree transducers](readings/graf-2020-curbing-feature-coding.pdf)
+  - [Jing and Heinz 2020 on ISL tree transducers](readings/Ji-Heinz-2020-ISLTT.pdf)
 
 ### Mon 01 May 2023
 - We discussed strictly local string and tree languages ([chapter 8](readings/main.pdf))
